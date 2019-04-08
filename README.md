@@ -1,2 +1,4 @@
 # Basic-Portfolio
-That Portfolio Though Assignment
+A Basic Portfolio created with HTML5 & CSS3.
+
+https://lgfahys.github.io/lgfahys-portfolio/
